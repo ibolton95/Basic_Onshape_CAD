@@ -15,5 +15,6 @@ The fillets and chamfers were easy enough, and, as before, I am trying to be abl
 <img src="./images/Fork.PNG" alt="Fork" width="200" height="200"> 
 
 ## Tire
+I made the tire without any trouble, but I did have to spend a little extra time looking for some of the features just because I am working on a half-screen. But that is not a significant issue, and the rotation went smoothly.
 
-
+<img src="./images/Tire.PNG" alt="Tire" width="200" height="200">
