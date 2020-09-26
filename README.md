@@ -4,6 +4,9 @@ I am trying to figure out my settings in Onshape along with the keyboard shortcu
 
 <img src="images/Base.PNG" width="200"> 
 
+<img src="Base.png" width="200">
+
+
 ## Mount
 I am still getting a hold of the keyboard shortcuts, but I am feeling more comfortable with pressing "r" for a quick rectangle and "c" for circle.
 
