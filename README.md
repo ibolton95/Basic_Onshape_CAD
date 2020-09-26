@@ -2,7 +2,7 @@
 ## Base 
 I am trying to figure out my settings in Onshape along with the keyboard shortcuts in order to use Onshape as effectively as I can. I didn't use many keyboard shortcuts for this part, but I can see how they will be helpful for future assignments once I get the hang of them.
 
-<img src="./images/Base.png" width="200"> 
+<img src="./images/Base.png" width="400"> 
 
 
 ## Mount
