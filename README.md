@@ -8,7 +8,7 @@ I am trying to figure out my settings in Onshape along with the keyboard shortcu
 ## Mount
 I am still getting a hold of the keyboard shortcuts, but I am feeling more comfortable with pressing "r" for a quick rectangle and "c" for circle.
 
-<img src="./images/MountPic.PNG" alt="Mount" width="200" height="200"> 
+<img src="./images/MountPic.png" width="200"> 
 
 ## Fork
 The fillets and chamfers were easy enough, and, as before, I am trying to be able to quickly perform the keyboard shortcuts.
