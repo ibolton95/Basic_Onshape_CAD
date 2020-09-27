@@ -33,3 +33,6 @@ The first time I tried making the wheel, some of the lines in my first sketch we
 <img src="./images/Wheel.png" width="400">
 
 Link: https://cvilleschools.onshape.com/documents/fc73d56bf86be0d03ac5a29e/w/9b13dc147c3e2935cb947582/e/0f6859577cd430208c918b3d
+
+## Axle, Collar, and Bearings
+All of the parts were easy enough to make - the fact that a new part can be made directly on an old one makes the process easier and quicker, which is nice.
