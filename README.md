@@ -36,3 +36,19 @@ Link: https://cvilleschools.onshape.com/documents/fc73d56bf86be0d03ac5a29e/w/9b1
 
 ## Axle, Collar, and Bearings
 All of the parts were easy enough to make - the fact that a new part can be made directly on an old one makes the process easier and quicker, which is nice.
+
+
+<img src="./images/AxleCollar.png" width="200">
+
+
+<img src="./images/WheelBearing.png" width="200">
+
+
+<img src="./images/BigBearing.png" width="200">
+
+Links: 
+https://cvilleschools.onshape.com/documents/fc73d56bf86be0d03ac5a29e/w/9b13dc147c3e2935cb947582/e/4165735182e61e8fd9e771eb
+
+https://cvilleschools.onshape.com/documents/fc73d56bf86be0d03ac5a29e/w/9b13dc147c3e2935cb947582/e/0f6859577cd430208c918b3d
+
+https://cvilleschools.onshape.com/documents/fc73d56bf86be0d03ac5a29e/w/9b13dc147c3e2935cb947582/e/766bd33d45ffb7f95d8c250b
