@@ -52,3 +52,6 @@ https://cvilleschools.onshape.com/documents/fc73d56bf86be0d03ac5a29e/w/9b13dc147
 https://cvilleschools.onshape.com/documents/fc73d56bf86be0d03ac5a29e/w/9b13dc147c3e2935cb947582/e/0f6859577cd430208c918b3d
 
 https://cvilleschools.onshape.com/documents/fc73d56bf86be0d03ac5a29e/w/9b13dc147c3e2935cb947582/e/766bd33d45ffb7f95d8c250b
+
+## Sub-Assembly
+A couple of times, I was not sure if I selected the correct mate connectors because it highlights the entire part when a connector is selected, but it worked out and I had no trouble creating the sub-assembly.
