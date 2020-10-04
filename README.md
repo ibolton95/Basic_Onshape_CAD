@@ -57,7 +57,7 @@ https://cvilleschools.onshape.com/documents/fc73d56bf86be0d03ac5a29e/w/9b13dc147
 A couple of times, I was not sure if I selected the correct mate connectors because it highlights the entire part when a connector is selected, but it worked out and I had no trouble creating the sub-assembly.
 
 
-<img src="./images/SubAssembly.png" width="200">
+<img src="./images/SubAssembly.png" width="400">
 
 Link: https://cvilleschools.onshape.com/documents/fc73d56bf86be0d03ac5a29e/w/9b13dc147c3e2935cb947582/e/2f36d90183ce73c379c34946
 
@@ -65,6 +65,6 @@ Link: https://cvilleschools.onshape.com/documents/fc73d56bf86be0d03ac5a29e/w/9b1
 My fork was not wide enough to fit my axle, bearing, and collar, so I had to measure the distance of the the parts and then adjust the width of the fork. I also had a little bit of trouble with the parrallel mates, but I figured everything out and my assembly looks good.
 
 
-<img src="./images/Assembly.png" width="200">
+<img src="./images/Assembly.png" width="400">
 
 Link: https://cvilleschools.onshape.com/documents/fc73d56bf86be0d03ac5a29e/w/9b13dc147c3e2935cb947582/e/0561f24c5c415cda408e8fe5
