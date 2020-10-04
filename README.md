@@ -55,3 +55,8 @@ https://cvilleschools.onshape.com/documents/fc73d56bf86be0d03ac5a29e/w/9b13dc147
 
 ## Sub-Assembly
 A couple of times, I was not sure if I selected the correct mate connectors because it highlights the entire part when a connector is selected, but it worked out and I had no trouble creating the sub-assembly.
+
+
+<img src="BigBearing.png" width="200">
+
+Link: https://cvilleschools.onshape.com/documents/fc73d56bf86be0d03ac5a29e/w/9b13dc147c3e2935cb947582/e/2f36d90183ce73c379c34946
