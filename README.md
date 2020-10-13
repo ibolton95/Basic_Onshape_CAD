@@ -68,3 +68,6 @@ My fork was not wide enough to fit my axle, bearing, and collar, so I had to mea
 <img src="./images/Assembly.png" width="400">
 
 Link: https://cvilleschools.onshape.com/documents/fc73d56bf86be0d03ac5a29e/w/9b13dc147c3e2935cb947582/e/0561f24c5c415cda408e8fe5
+
+## Onshape Challenge
+The creation of the parts went smoothly (except that I incorrectly dimensioned a circle, but it was an easy fix). I had some trouble with the mates in the assembly, but once I figured out how to use a revolute and cylindrical mate, I correclty assembled the part.
