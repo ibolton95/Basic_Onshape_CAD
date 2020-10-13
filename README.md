@@ -71,3 +71,8 @@ Link: https://cvilleschools.onshape.com/documents/fc73d56bf86be0d03ac5a29e/w/9b1
 
 ## Onshape Challenge
 The creation of the parts went smoothly (except that I incorrectly dimensioned a circle, but it was an easy fix). I had some trouble with the mates in the assembly, but once I figured out how to use a revolute and cylindrical mate, I correclty assembled the part.
+
+
+<img src="./images/OnshapeChallenge.png" width="400">
+
+Link: https://cvilleschools.onshape.com/documents/1ccbcbae252799ea6f3b17a0/w/43e21657eb529680ea43e082/e/afe6cdc4dbf02feb9d104716
