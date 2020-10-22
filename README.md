@@ -76,3 +76,15 @@ The creation of the parts went smoothly (except that I incorrectly dimensioned a
 <img src="./images/OnshapeChallenge.png" width="400">
 
 Link: https://cvilleschools.onshape.com/documents/1ccbcbae252799ea6f3b17a0/w/43e21657eb529680ea43e082/e/afe6cdc4dbf02feb9d104716
+
+## Dorothy's Dowel Pins
+I got the hang of these configurations pretty easily, and the creation of the frame went smoothly as well. It's nice that configurations are made so accessible on onshape, and the list feature is great.
+
+
+<img src="./images/DowelPin1.png" width="400">
+
+
+<img src="./images/DowelPin2.png" width="400">
+
+Link: https://cvilleschools.onshape.com/documents/7daf73e10209080f44c3b18b/w/e6353287fa86b15632cb22aa/e/f4bb5226ee3689705795ba1b 
+
